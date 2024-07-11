@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Student of Eletrical Engineering at [Federal University of Santa Catarina] (https://ufsc.br/)
-Working as a Software Engineer at [NEO Empresarial] (https://neo.certi.org.br/)
+- *Student of Eletrical Engineering at [Federal University of Santa Catarina] (https://ufsc.br/)*
+
+- *Working as a Software Engineer at [NEO Empresarial] (https://neo.certi.org.br/)*
