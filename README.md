@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - *Student of Eletrical Engineering at [Federal University of Santa Catarina]*
 
-- Working as a Software Engineer at [NEO Empresarial] (https://neo.certi.org.br/)
+- Working as a Software Engineer at [**NEO Empresarial**](https://neo.certi.org.br/)
