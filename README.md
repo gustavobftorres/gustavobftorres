@@ -1,4 +1,4 @@
-# Hi, I'm Gustavo Torres 👋
+# ☕ Gustavo Bevilacqua de Faria Torres
 
 
 **About me**
@@ -7,7 +7,7 @@
 
 - 📚 Eletrical Engenineering student at [**Federal University of Santa Catarina**](https://ufsc.br/)
 
-- ❤️ I love coding, always open to learning new languages ​​and meeting new people
+- 🌱 I love coding, always open to learning new languages ​​and meeting new people
 
 
 
