@@ -5,7 +5,7 @@
 
 - 💼 Software Development Intern at [**NEO Empresarial**](https://neo.certi.org.br/)
 
-- 📚 Eletrical Engenineering student at [**Federal University of Santa Catarina**](https://ufsc.br/)
+- 📚 Control and Automation Engineering student at [**Federal University of Santa Catarina**](https://ufsc.br/)
 
 - 🌱 I love coding, always open to learning new languages ​​and meeting new people
 
