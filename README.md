@@ -27,7 +27,7 @@
 ___
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,tailwind,nestjs,postgres,py,react,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,tailwind,nestjs,postgres,docker,py,react,figma)](https://skillicons.dev)
 <br/>
 <br/>
 <br/>
