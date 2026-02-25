@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 Software Development Intern at [**NEO Empresarial**](https://neo.certi.org.br/)
+- 💼 Software Development Intern at [**Balancer Labs**](https://balancer.fi/)
 
 - 📚 Control and Automation Engineering student at [**Federal University of Santa Catarina**](https://ufsc.br/)
 
