@@ -1,34 +1,35 @@
-# ☕ Gustavo Bevilacqua de Faria Torres
+# Gustavo Torres
 
+Full-stack engineer based in Florianópolis, Brazil. I build web applications 
+end-to-end, from architecture and backend to polished, performant UIs.
 
-**About me**
+Currently at **[Balancer](https://balancer.fi/)**, shipping tools for the DeFi 
+ecosystem. Most excited about the intersection of web development and web3, 
+building dApps that are actually good to use.
 
-- 💼 Software Development Intern at [**Balancer Labs**](https://balancer.fi/)
+## What I'm working with
 
-- 📚 Control and Automation Engineering student at [**Federal University of Santa Catarina**](https://ufsc.br/)
+**Core:** TypeScript, Next.js, NestJS, PostgreSQL, Docker  
+**Web3:** Solidity, on-chain data, Ethereum ecosystem  
+**Also use:** Python, React Native, FastAPI
 
-- 🌱 I love coding, always open to learning new languages ​​and meeting new people
+## A few things I've built
 
+- **[LBP Simulator](https://lbp.balancer.fi)** — live production app at Balancer. 
+  Simulates token launch price curves over time, with real-time 10k+ point charts 
+  running in Web Workers at 60fps
+- **[Financial Assistant](https://github.com/gustavobftorres/financial-assistant)** 
+  — personal finance app with CSV bank import, spending dashboards, and an AI 
+  assistant for insights
 
+## Background
 
-### Connect with me:
+Before going deep on engineering, I spent time as a technical lead across 10 
+concurrent projects — defining stacks, architecture, and mentoring junior devs. 
+That context makes me think about code differently.
 
+---
 
-<a href="https://www.linkedin.com/in/gustavo-bevilacqua-torres">
-  <img align="left" alt="LinkedIn" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
-</a>
-</img>
-<a href="https://www.instagram.com/gutotorres_/">
-  <img align="left" alt="Instagram" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />    
-</a>
-<br/>
-<br/>
-
-___
-### 🧰 Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,tailwind,nestjs,postgres,docker,py,react,figma)](https://skillicons.dev)
-<br/>
-<br/>
-<br/>
-
+📍 Florianópolis, Brazil · 
+[LinkedIn](https://www.linkedin.com/in/gustavo-bevilacqua-torres/) · 
+Open to new opportunities
