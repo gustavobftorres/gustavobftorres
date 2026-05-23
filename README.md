@@ -7,10 +7,12 @@ Currently at **[Balancer](https://balancer.fi/)**, shipping tools for the DeFi
 ecosystem. Most excited about the intersection of web development and web3, 
 building dApps that are actually good to use.
 
+Shipping cool stuff with the crew at [LIME Protocol](https://github.com/LIME-Protocol) 🚀
+
 ## What I'm working with
 
 **Core:** TypeScript, Next.js, NestJS, PostgreSQL, Docker  
-**Web3:** Solidity, on-chain data, Ethereum ecosystem  
+**Web3:** Solidity, on-chain data, Ethereum and Solana ecosystem  
 **Also use:** Python, React Native, FastAPI
 
 ## A few things I've built
@@ -25,7 +27,7 @@ building dApps that are actually good to use.
 ## Background
 
 Before going deep on engineering, I spent time as a technical lead across 10 
-concurrent projects — defining stacks, architecture, and mentoring junior devs. 
+concurrent projects, defining stacks, architecture, and mentoring junior devs. 
 That context makes me think about code differently.
 
 ---
