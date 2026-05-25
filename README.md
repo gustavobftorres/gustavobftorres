@@ -3,10 +3,6 @@
 Full-stack engineer based in Florianópolis, Brazil. I build web applications 
 end-to-end, from architecture and backend to polished, performant UIs.
 
-Currently at **[Balancer](https://balancer.fi/)**, shipping tools for the DeFi 
-ecosystem. Most excited about the intersection of web development and web3, 
-building dApps that are actually good to use.
-
 Shipping cool stuff with the crew at [LIME Protocol](https://github.com/LIME-Protocol) 🚀
 
 ## What I'm working with
