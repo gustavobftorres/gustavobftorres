@@ -16,6 +16,9 @@ Shipping cool stuff with the crew at [LIME Protocol](https://github.com/LIME-Pro
 - **[LBP Simulator](https://lbp.balancer.fi)** — live production app at Balancer. 
   Simulates token launch price curves over time, with real-time 10k+ point charts 
   running in Web Workers at 60fps
+- **[Excalibuddy](https://github.com/gustavobftorres/excalibuddy)** -
+  I love to use Excalidraw, but building the diagram from scratch feels a little to much work sometimes.
+      If you feel something like that, Excalibuddy is your dude for it.
 - **[Financial Assistant](https://github.com/gustavobftorres/financial-assistant)** 
   — personal finance app with CSV bank import, spending dashboards, and an AI 
   assistant for insights
